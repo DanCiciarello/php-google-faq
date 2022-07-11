@@ -1,0 +1,40 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+nav .cdUserPic {
+    width: 35px;
+    aspect-ratio: 1/1;
+    border-radius: 50px;
+    background-color: rgb(233, 233, 233);
+    overflow: hidden;
+}
+
+nav .cdTextLogo {
+    color: #5f6368;
+}
+
+nav .cdHeaderMenu {
+    border-bottom: 1px solid #cdced1;
+}
+
+nav .cdHeaderMenu .cdMenuItem {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #5f6368;
+}
+
+nav .cdHeaderMenu a {
+    text-decoration: none;
+}
+
+footer .cdFooterMenuItem {
+    font-size: 10px;
+    color: #5f6368;
+    font-weight: 300;
+}
+
+footer a {
+    text-decoration: none;
+}
